@@ -1,5 +1,9 @@
 # akhilkri_CSE676
 
+Name : AKHIL KRISHNAN SUNIL
+UB PERSON NUMBER : 50468304
+UBIT NAME : akhilkri
+
 Have jupyter Notebook and python installed
 1) Install Torch
 2) Install Tensorflow
